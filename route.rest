@@ -1,0 +1,23 @@
+# GET http://localhost:3000/pullReqs
+
+# ###
+
+# GET http://localhost:3000/pullReqs/61d17bb3d723b59bd10f75d0
+
+# ###
+
+# POST http://localhost:3000/pullReqs/
+# Content-Type: application/json
+
+# ###
+
+# DELETE http://localhost:3000/pullReqs/61d180aa20340dc0c395175c
+
+# ###
+
+# PATCH  http://localhost:3000/pullReqs/61d1acbc07eef7f8d0e0a369
+# Content-Type: application/json
+
+# {
+#     "name": "Steve"
+# }
